@@ -1,24 +1,21 @@
 # Meta Final Course Project
 
-This project is part of the Meta final course.
+This is my project for the Meta final course. It's a web application built using React.
 
 ## Project Overview
 
-This project involves creating a web app that demonstrates [brief description of what your app does].
+This web app demonstrates [brief description of what your app does, e.g., "a booking system for a restaurant"]. It allows users to [mention main features like "view available slots, make a reservation, etc."].
 
 ## Technologies Used
-- React
-- JavaScript
-- CSS
-- [List any other technologies you used]
 
-## Setup and Installation
-1. Clone the repository:  
-   `git clone https://github.com/nivethan-raaj/Meta-final-course.git`
-2. Install dependencies:  
-   `npm install`
-3. Run the app:  
-   `npm start`
+- React (for building the user interface)
+- JavaScript (for app logic)
+- CSS (for styling the app)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## How to Set Up the Project
+
+To get the project running on your computer, follow these steps:
+
+1. **Clone the Repository**  
+   Download the project by cloning it using the command:
+   git clone https://github.com/nivethan-raaj/Meta-final-course.git
