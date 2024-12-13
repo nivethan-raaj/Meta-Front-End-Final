@@ -18,4 +18,4 @@ To get the project running on your computer, follow these steps:
 
 1. **Clone the Repository**  
    Download the project by cloning it using the command:
-   git clone https://github.com/nivethan-raaj/Meta-final-course.git
+   git clone https://github.com/nivethan-raaj/Meta-Front-End-Final.git
