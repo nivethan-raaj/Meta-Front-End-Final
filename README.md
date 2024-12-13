@@ -1,6 +1,6 @@
 # Meta Final Course Project
 
-This is my project for the Meta final course. It's a web application built using React.
+This is my project for the Meta Front End Developer final course. It's a web application built using React.
 
 ## Project Overview
 
